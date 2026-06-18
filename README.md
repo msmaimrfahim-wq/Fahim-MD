@@ -1,7 +1,7 @@
-<h1 align="center">👑 QUEEN RIAM </h1>
+<h1 align="center">👑—͞𝐅𝐚𝐡𝐢𝐦 𝐁𝐛𝐳ᥫ᭡ </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Queen Riam" width="300" style="border-radius: 12px;" />
+  <img src="https://i.imgur.com/6H0FXSa.jpeg" alt="Fahim bbz" width="300" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About
 
-**QUEEN RIAM** is a modern WhatsApp multi-device bot built with **Node.js**, **Baileys**, and **Express**. Designed for simplicity, extensibility, and reliable automation for both group and personal chats.
+**Fahimbbz** is a modern WhatsApp multi-device bot built with **Node.js**, **Baileys**, and **Express**. Designed for simplicity, extensibility, and reliable automation for both group and personal chats.
 
 > Please use responsibly and for educational purposes only.
 
