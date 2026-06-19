@@ -148,8 +148,8 @@ const channelCtx = {
     forwardingScore: 1,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363404284793169@newsletter',
-        newsletterName: '👑 𝚀𝚄𝙴𝙴𝙽 𝚁𝙸𝙰𝙼',
+        newsletterJid: '',
+        newsletterName: 'Fahim Bbz',
         serverMessageId: -1,
     },
 };
@@ -225,7 +225,7 @@ async function helpCommand(sock, chatId, message, _, subCategory) {
             try {
                 const opts = {
                     text: catText,
-                    footer: '© Queen Riam',
+                    footer: '© Fahim bbz',
                     buttons: [
                         { id: '.help', text: getLang(sock).help_back_btn },
                     ],
@@ -254,7 +254,7 @@ async function helpCommand(sock, chatId, message, _, subCategory) {
 
             const opts = {
                 text: menuText,
-                footer: '© Queen Riam',
+                footer: '© Fahim bbz',
                 buttons,
                 quoted: getFakeVcard(),
                 contextInfo: channelCtx,
