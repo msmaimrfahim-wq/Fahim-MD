@@ -15,8 +15,8 @@ const channelInfo = {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363404284793169@newsletter',
-            newsletterName: 'Queen Riam',
+            newsletterJid: '',
+            newsletterName: 'Fahim bbz',
             serverMessageId: -1
         }
     }
@@ -61,7 +61,7 @@ async function pairCommand(sock, chatId, message, args) {
             try {
                 await sendButtons(sock, chatId, {
                     text: response,
-                    footer: '© Queen Riam',
+                    footer: '© Fahim bbz',
                     buttons: [
                         {
                             name: 'cta_copy',
